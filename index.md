@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 天马行空
-tagline: Supporting tagline
+title: 天马行空 - 首页 
 ---
 {% include JB/setup %}
-
 
 ## 学习
 * Git
@@ -12,8 +10,9 @@ tagline: Supporting tagline
 * Markdown
 * Pandoc
 * Kindle
-   
-## 读书
+
+---
+## 读书 
 
 
 

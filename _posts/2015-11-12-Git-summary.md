@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: post
+category : tech
+tags : [git, summary]
 title: Git简要操作
 ---
 
